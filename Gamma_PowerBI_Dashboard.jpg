@@ -1,0 +1,55 @@
+# Gamma Communications plc — Independent FP&A Analysis
+
+**Prepared by: Zain | Completed 24 May 2026**
+
+An independent financial planning & analysis project examining Gamma Communications plc (LSE: GAMA), a UK-based cloud communications company. Built using publicly available data from the company's Annual Reports (FY2022–FY2025).
+
+---
+
+## Business Question
+
+> Can Gamma's free cash flow support its debt obligations and dividend commitments following the £144m Starface acquisition in 2025?
+
+---
+
+## Contents
+
+| File | Description |
+|------|-------------|
+| `Gamma_3-Statement_Model.xlsx` | Fully linked 3-statement model (P&L, Balance Sheet, Cash Flow) with 4 years of actuals and a 2-year forecast. Includes a Bear/Base/Bull scenario toggle. |
+| `Gamma_Excel_Dashboard.xlsx` | Executive dashboard with KPI cards, segment revenue analysis, margin trends, and CFO commentary. |
+| `Gamma_CFO_Briefing.pdf` | One-page investment brief summarising the analysis and conclusion. |
+| `Gamma_PowerBI_Dashboard.pbix` | Interactive Power BI dashboard (add your own .pbix here). |
+
+---
+
+## Methodology
+
+- **Data source:** Gamma Communications Annual Reports 2022, 2023, 2024 and 2025 (consolidated financial statements and segmental notes).
+- **Actuals:** FY2022A–FY2025A figures taken directly from reported accounts. Revenue, gross profit and Adjusted EBITDA tie exactly to reported figures.
+- **Forecast:** FY2026E–FY2027E built from explicit assumptions on segment growth, margins, capex and tax — driven by a scenario toggle.
+- **Note on segments:** FY2022/2023 reported a combined "Europe" segment; the Germany vs Other Europe split for those years is estimated based on FY2024 proportions. Total Europe revenue is as reported.
+
+---
+
+## Key Findings (Base Case)
+
+- Revenue grew at a 10.1% CAGR from £484.6m (FY2022) to £645.8m (FY2025).
+- Adjusted EBITDA margin stable at ~21.9%, forecast to expand toward 23.6% by FY2027.
+- Free cash flow of ~£64m (FY2025) comfortably covers ~£6-7m interest and the £18.9m dividend.
+- **Conclusion:** FCF is sufficient to service post-Starface debt and maintain the dividend under base case assumptions. The investment case hinges on Germany delivering organic growth in FY2026.
+
+---
+
+## Scenario Summary
+
+| Metric | Bear (5% DE growth) | Base (15%) | Bull (25%) |
+|--------|------|------|------|
+| FY2027E Revenue | ~£675m | ~£709m | ~£745m |
+| FY2027E Adj. EBITDA | ~£150m | ~£167m | ~£184m |
+| Est. FCF FY2027 | ~£60-65m | ~£75-80m | ~£90m+ |
+| Dividend covered? | Yes | Yes | Yes |
+
+---
+
+*This is an independent educational project. Forecasts were prepared on 24 May 2026, prior to publication of Gamma's FY2026 results. Nothing in this repository constitutes investment advice.*
