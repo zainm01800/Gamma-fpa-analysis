@@ -25,4 +25,4 @@ Can Gamma's free cash flow support its debt obligations and dividend following t
 
 ## Note
 
-Forecasts were prepared on 24 May 2026, prior to publication of Gamma's FY2026 results. This is an independent educational project and not investment advice.
+Forecasts were prepared on 24 May 2026, prior to publication of Gamma's FY2026 results. This is an independent educational project.
